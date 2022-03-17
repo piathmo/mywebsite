@@ -7,7 +7,7 @@ I am very new to the tech world (besides social media), but I feel like I am lea
             
  The code I used for that assignment:
  
- def vol_cube():
+def vol_cube():
  edge=float(input("enter value of edge"))
  vol_cu = edge*edge*edge
  print("volume of cube is:")
