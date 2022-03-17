@@ -15,4 +15,5 @@ I love music very much! I can truly say it is like therapy for me. The main genr
 + Lil Durk - When We Shoot
 + and so much more
 I also have some albums that I feel like I can listen to through and through without getting tired of the songs.
-![image](https://user-images.githubusercontent.com/101791032/158856736-92a188af-4a91-4abe-a4ce-37fd84054708.png)
+
+![image](https://user-images.githubusercontent.com/101791032/158857109-185087e0-0f6e-458d-8ee8-80cfb9fbce33.png)![image](https://user-images.githubusercontent.com/101791032/158857235-7a7ccf50-e392-48dd-b3a4-a9fa04b162c9.png)![image](https://user-images.githubusercontent.com/101791032/158857388-1f1a1bac-61a6-4398-89b3-cade9ea0e804.png)
