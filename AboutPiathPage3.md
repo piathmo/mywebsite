@@ -21,3 +21,9 @@ My friend and I went on a trip to South Padre, which is an island off of the Tex
 ![image](https://user-images.githubusercontent.com/101791032/158893971-c469e70e-8167-45a4-87bd-9dba2b2bd7d6.png)
 
 My friends & I went to San Francisco last year because we all just needed a vacation. I would say it's one of those cities you go to when you truly want a break. Everyone is so friendly and welcoming and they have the best sushi & boba I have ever had located in their local china town marketplace. Two of my favorite childhood shows were filmed there **That's so Raven** and **Full House** and my favorite movie of all time **The Princess Diaries**. We visited the filming locations and it felt so odd becuase I grew up just watching these spots on tv as a child.
+
+
+#### Seattle
+![image](https://user-images.githubusercontent.com/101791032/158894433-20b76628-e4b0-415c-b002-a7a3378b775e.png)
+
+I was only in Seattle for a day, but it was gorgeous and I defintely plan to make my way back there sometime soon.  
