@@ -14,3 +14,4 @@ I love music very much! I can truly say it is like therapy for me. The main genr
 + NBA Youngboy - Bad Bad
 + Lil Durk - When We Shoot
 + and so much more
+I also have some albums that I feel like I can listen to through and through without getting tired of the songs.
