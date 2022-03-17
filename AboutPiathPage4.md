@@ -3,4 +3,4 @@ I am very new to the tech world (besides social media), but I feel like I am lea
 
 #### IOS App Development Class at Mizzou
 I really love the idea of taking this class, but I also feel like I would need more inbetween classes before jumping into that. I love Apple products so being able to learn more about the developments  I like IT classes because it is literally the blueprint to what we see everyday on our phones and laptops.
-link of more IT classes at Mizzou: http://catalog.missouri.edu/courseofferings/infotc/
+link of more IT classes at Mizzou: [Information Technology Catalog]http://catalog.missouri.edu/courseofferings/infotc/
