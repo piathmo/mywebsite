@@ -27,3 +27,8 @@ My friends & I went to San Francisco last year because we all just needed a vaca
 ![image](https://user-images.githubusercontent.com/101791032/158894433-20b76628-e4b0-415c-b002-a7a3378b775e.png)
 
 I was only in Seattle for a day, but it was gorgeous and I defintely plan to make my way back there sometime soon.  
+
+#### Chicago
+![image](https://user-images.githubusercontent.com/101791032/158894578-92424b8a-4995-4987-804d-4bd1eb716f07.png)
+
+Chicago is one of the most beautiful places I have been to. I feel like they have the best skyline ever! I was there last summer with my sister and cousin and we felt like we just had to do so much before we could leave. We went on an Architecture tour of the city, road electric bikes around Lincoln Park, and visited the house that one of my favorite current shows was filmed at **Shameless**. 
