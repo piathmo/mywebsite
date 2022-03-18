@@ -6,7 +6,7 @@ I am very new to the tech world (besides social media), but I feel like I am lea
 
  The Volume Calculator challenge interested me because we were essentially creating calculators! Figuring out the code got tricky with the loops, but I ended up figuring it out. I did run into a lot of syntax errors but it was a true definition of trial and error and then success.
 
-'''python
+```python
 print("Hello this is a volume calculator!")
 choice=str(input("Please type the name of the shape you want to find the volume of"))
 
@@ -40,7 +40,7 @@ elif choice == "cylinder":
 
 elif choice == "cone":
  vol_cylinder()
-'''
+```
 
    #### IOS App Development Class at Mizzou
 I really love the idea of taking this class, but I also feel like I would need more inbetween classes before jumping into that. I love Apple products so being able to learn more about the developmental process would be very interesting to me. I like IT classes because it is literally the blueprint to what we see everyday on our phones and laptops.
