@@ -33,4 +33,4 @@ I was only in Seattle for a day, but it was gorgeous and I defintely plan to mak
 
 Chicago is one of the most beautiful places I have been to. I feel like they have the best skyline ever! I was there last summer with my sister and cousin and we felt like we just had to do so much before we could leave. We went on an Architecture tour of the city, road electric bikes around Lincoln Park, and visited the house that one of my favorite current shows was filmed at **Shameless**. 
 
-*Next Page* [My Love for Kansas City](https://github.com/piathmo/mywebsite/blob/main/AboutPiathPage4.md)
+*Next Page* [My Tech Experience](https://github.com/piathmo/mywebsite/blob/main/AboutPiathPage4.md)
