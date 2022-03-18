@@ -23,4 +23,4 @@ Being from Kansas City can seem lame to some, but if you're from here then you k
    If you're from here then you know there is a spoken rivaly between **KCMO** and **KCK**. Kansas City, Missouri was discovered *before* Kansas City, Kansas and named the famous name of "Kansas City" in 1889. KCMO started getting a lot of attention with tourists coming in and business starting to boom. KCK was then named "Kansas City" as well in order to gain more of the KCMO attraction. The funny thing is, you can actually see KCK from KCMO (and vice versa) if you're at the right spot.
    
    
-*Next Page* (Cities I have Traveled To) [https://github.com/piathmo/mywebsite/blob/main/AboutPiathPage3.md]
+*Next Page* [Cities I Have Traveled To](https://github.com/piathmo/mywebsite/blob/main/AboutPiathPage2.md)
