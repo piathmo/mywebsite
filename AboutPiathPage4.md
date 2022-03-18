@@ -45,3 +45,4 @@ I really love the idea of taking this class, but I also feel like I would need m
 link of more IT classes at Mizzou: [Information Technology Catalog]http://catalog.missouri.edu/courseofferings/infotc/
 
 
+*Next Page* [My Love for Kansas City](https://github.com/piathmo/mywebsite/blob/main/AboutPiathPage2.md)
