@@ -45,4 +45,4 @@ I really love the idea of taking this class, but I also feel like I would need m
 link of more IT classes at Mizzou: [Information Technology Catalog]http://catalog.missouri.edu/courseofferings/infotc/
 
 
-*Next Page* [Hobbies & What I Do in My Free Time](https://github.com/piathmo/mywebsite/blob/main/AboutPiathPage5.md)
+*Next Page* [Hobbies & What I Do In My Free Time](https://github.com/piathmo/mywebsite/blob/main/AboutPiathPage5.md)
