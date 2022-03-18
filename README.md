@@ -23,4 +23,4 @@ I also have some albums that I feel like I can listen to through and through wit
 *From Left To Right: Rihanna - Anti, Drake - Views, Pop Smoke - Meet the Woo 2, Lil Baby - Harder than Ever, SZA - Ctrl, Lil Durk - The Voice, Beyonce - Lemonade*
 
 
-*Next Page* [My Love for Kansas City](mywebsite/AboutPiathPage2)
+*Next Page* [My Love for Kansas City](https://github.com/piathmo/mywebsite/blob/main/AboutPiathPage2.md)
